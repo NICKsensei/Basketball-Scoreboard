@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.container {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    background-color: 1F2937;
+    /* margin: auto; */
+    
+}
+button {
+    /* position: absolute; */
+    width: 45px;
+    height: 45px;
+    left: 136px;
+    top: 271px;
+    
+
+}
