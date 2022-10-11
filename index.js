@@ -15,3 +15,15 @@ function homeAdd3() {
   homeCount += 3;
   homeScore.textContent = homeCount;
 }
+function guestAdd1() {
+  guestCount += 1;
+  guestScore.textContent = guestCount;
+}
+function guestAdd2() {
+  guestCount += 2;
+  guestScore.textContent = guestCount;
+}
+function guestAdd3() {
+  guestCount += 3;
+  guestScore.textContent = guestCount;
+}

@@ -1,15 +1,38 @@
+@font-face{
+    font-family:'Cursed Timer ULiL';
+    src: url('CursedTimerUlil-Aznm.ttf');
+   }
+
 body {
     margin: 0;
+    text-align: center;
+}
+
+#homeScore,#guestScore{
+background: black;
+font-size: 90px;
+width: 155px;
+height: 120px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+line-height: 141px;
+color: #F94F6D;
+/* text-align: center; */
+
+    
 }
 
 .container {
     color: white;
     display: flex;
     justify-content: space-around;
-    background-color: 1F2937;
-    /* margin: auto; */
+    background-color: 1F2950;
+    margin: auto;
+    font-size: 30px;
     
 }
+
 button {
     /* position: absolute; */
     width: 45px;
