@@ -27,7 +27,7 @@ color: #F94F6D;
     color: white;
     display: flex;
     justify-content: space-around;
-    background-color: 1F2950;
+    background-color: #1B244A;
     margin: auto;
     font-size: 30px;
     
@@ -35,10 +35,16 @@ color: #F94F6D;
 
 button {
     /* position: absolute; */
+    color: white;
+    background-color: 1F2950;
+    border-color: #9AAAD8;
+    border-radius: 5px;
+    border-width: 3px;
     width: 45px;
     height: 45px;
-    left: 136px;
+    left: 82px;
     top: 271px;
+    font-family: 'Cursed Timer ULiL';
     
 
 }
